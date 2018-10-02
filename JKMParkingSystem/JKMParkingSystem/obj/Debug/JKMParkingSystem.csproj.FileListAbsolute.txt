@@ -1,0 +1,33 @@
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\bin\Debug\JKMParkingSystem.exe.config
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.csprojResolveAssemblyReference.cache
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.Form1.resources
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.Properties.Resources.resources
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.Search.resources
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.csproj.GenerateResource.Cache
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\bin\Debug\JKMParkingSystem.exe
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\bin\Debug\JKMParkingSystem.pdb
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\bin\Debug\MySql.Data.dll
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\bin\Debug\Google.Protobuf.dll
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\bin\Debug\MySql.Data.xml
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.exe
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.pdb
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.View.resources
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.AddCar.resources
+c:\users\jovi\documents\visual studio 2015\Projects\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.Remove.resources
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\bin\Debug\JKMParkingSystem.exe.config
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\bin\Debug\JKMParkingSystem.exe
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\bin\Debug\JKMParkingSystem.pdb
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\bin\Debug\MySql.Data.xml
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.csprojAssemblyReference.cache
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.AddCar.resources
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.Form1.resources
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.Properties.Resources.resources
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.Remove.resources
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.Search.resources
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.View.resources
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.csproj.GenerateResource.cache
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.csproj.CopyComplete
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.exe
+C:\Users\kenne\source\repos\JKMParkingSystem\JKMParkingSystem\obj\Debug\JKMParkingSystem.pdb
